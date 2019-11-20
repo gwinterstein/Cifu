@@ -1,4 +1,4 @@
-# Cifu: a lexicon for Hong Kong Cantonese
+# Cifu: a frequency lexicon for Hong Kong Cantonese
 
 This repository offers a lexical database for Hong Kong Cantonese. Each entry in the lexicon offers the following information:
 - the term in Chinese characters

@@ -9,3 +9,12 @@ This repository offers a lexical database for Hong Kong Cantonese. Each entry in
 
 The repository also includes some of the resources used for creating Cifu:
 - a Jyutping romanization dictionary, adapted from yeDict (https://writecantonese8.wordpress.com/2012/02/04/cantonese-cedict-project/)
+
+Details about the construction of Cifu can be found in the following paper (please cite if you use Cifu in your research):
+
+Lai, Regine and Winterstein, Grégoire (2020) "Cifu: a Frequency Lexicon of Hong Kong Cantonese", in Proceedings of The 12th Language Resources and Evaluation Conference, Marseille: European Language Resources Association, p. 3062--3070.
+
+Available here: http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.374.pdf
+
+Cifu is a registered language resource with the ISRLN (321-291-722-262-7):
+http://www.islrn.org/resources/321-291-722-262-7/

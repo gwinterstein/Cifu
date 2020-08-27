@@ -14,7 +14,7 @@ Details about the construction of Cifu can be found in the following paper (plea
 
 Lai, Regine and Winterstein, Grégoire (2020) "Cifu: a Frequency Lexicon of Hong Kong Cantonese", in Proceedings of The 12th Language Resources and Evaluation Conference, Marseille: European Language Resources Association, p. 3062--3070.
 
-Available here: http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.374.pdf
+Available here: http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.375.pdf
 
 Cifu is a registered language resource with the ISRLN (321-291-722-262-7):
 http://www.islrn.org/resources/321-291-722-262-7/
